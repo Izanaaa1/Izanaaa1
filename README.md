@@ -1,4 +1,4 @@
-# 👋 Привет, я [Ваше Имя/Никнейм]!
+# 👋 Привет, я Рамазанов Играми!
 **Разработчик, который любит создавать эффективные и масштабируемые решения.**
 
 ---
@@ -7,20 +7,17 @@
 
 *   **Языки & Фреймворки:**
     ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-    ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
-    ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-    *Хорошее знание Python, опыт создания бэкенд-приложений и API.*
+    *Хорошее знание Python, опыт работы с данными*
 
 *   **Базы данных:**
     ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-    *Работа с PostgreSQL: от проектирования схем до сложных запросов и оптимизации.*
+    *Работа с PostgreSQL: создание легких баз данных*
 
 *   **Инфраструктура & Инструменты:**
     ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
     ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-    *Опыт контейнеризации приложений с использованием Docker. Понимание жизненного цикла контейнеров.*
-    *Повседневная работа с Git: ветвление, слияния, code review.*
+    *Повседневная работа с Git*
 
 ---
 
@@ -33,6 +30,6 @@
 ---
 
 ### 🤝 **Связь со мной**
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ваш_ник)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](@Izanaaa1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ваш-профиль)
 [![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/ваш_ид)
