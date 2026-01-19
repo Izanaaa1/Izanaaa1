@@ -1,26 +1,36 @@
-# 👋 Привет, я Рамазанов Играми!
-**Разработчик, который любит создавать эффективные и масштабируемые решения.**
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Добро пожаловать в мой профиль!
+</h1>
+
+### **🔧 Hard Skills (Технические навыки)**
+
+| Категория       | Навыки и технологии                                                                                                                               |
+|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Backend**     | **Python** (продвинутый уровень), FastAPI, Django, Django REST Framework, асинхронное программирование (asyncio)                                  |
+| **Базы данных** | **PostgreSQL** (опыт работы с индексами, сложными JOIN, оптимизацией запросов), Redis, SQLAlchemy, Alembic                                        |
+| **DevOps**      | **Docker** (создание образов, Docker Compose, best practices), базовые знания CI/CD (GitHub Actions/GitLab CI), Linux (bash, systemd)             |
+| **Инструменты** | **Git** (Git Flow, работа в команде), PyCharm/VS Code, Poetry/pip, Nginx, Pytest                                                                  |
 
 ---
 
-### 🛠 **Мой стек технологий & Hard Skills**
+### **🚀 Мои ключевые проекты**
 
-*   **Языки**
-    ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-    *Хорошее знание Python, опыт работы с данными*
+Здесь будут ссылки на ваши лучшие репозитории. Пример:
 
-*   **Базы данных:**
-    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-    *Работа с PostgreSQL: создание легких баз данных*
-
-*   **Инфраструктура & Инструменты:**
-    ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-    ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-    *Повседневная работа с Git*
+*   **[Проект 1](ссылка)** — Описание проекта. Стек: Python, FastAPI, PostgreSQL, Docker.
+*   **[Проект 2](ссылка)** — Описание проекта. Стек: Django, Redis, Celery.
 
 ---
 
-### 🤝 **Связь со мной**
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](@Izanaaa1)
+### **📊 Статистика и используемые языки**
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ВАШ_USERNAME&show_icons=true&hide_border=true&theme=github_dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_USERNAME&layout=compact&hide_border=true&theme=github_dark" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ВАШ_USERNAME&color=blueviolet&style=flat-square" alt="Просмотры профиля" />
+</div>
 
